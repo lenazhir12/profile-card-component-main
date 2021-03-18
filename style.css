@@ -65,16 +65,12 @@
     position: absolute;
     bottom: 320px;
     right: 700px;
-    max-width: 100%;
-    height: auto;
     
 }
 .bg-img2 {
     position: absolute;
     top: 380px;
     left: 700px;
-    max-width: 100%;
-    height: auto;
 }
 .gray {
     color: hsl(0, 0%, 59%);
