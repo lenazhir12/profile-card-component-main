@@ -12,7 +12,7 @@
 
   .container {
       /* border: 2px solid black; */
-      width: auto;
+      max-width: auto;
       height: 800px;
       display: flex;
       justify-content: center;
@@ -86,5 +86,15 @@
 }
 span {
     padding-left: 10px;
+}
+.attribution {
+    position: relative;
+    margin-top: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+.attribution a {
+    color: rgb(240, 71, 127)
+
 }
 

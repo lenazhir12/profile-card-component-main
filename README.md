@@ -30,8 +30,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lenazhir12/profile-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://lenazhir12.github.io/profile-card-component-main/)
+- Solution URL: [View my solution on github](https://github.com/lenazhir12/profile-card-component-main.git)
+- Live Site URL: [View it live here](https://lenazhir12.github.io/profile-card-component-main/)
 
 ## My process
 
@@ -60,8 +60,8 @@ helped me a lot to know until where is an element extending to or what is the im
 
 ## Author
 
-- Website - [lenazhir12](https://www.your-site.com)
-- Frontend Mentor - [@lenazhir12](https://www.frontendmentor.io/profile/yourusername)
+- Website - [lenazhir12](https://lenazhir12.github.io/profile-card-component-main/)
+- Frontend Mentor - [@lenazhir12](https://www.frontendmentor.io/profile/lenazhir12)
 
 ## Acknowledgments
 
