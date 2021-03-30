@@ -11,15 +11,16 @@
   }
 
   .container {
-      /* border: 2px solid black; */
+      position: relative;
       max-width: auto;
       height: 800px;
       display: flex;
       justify-content: center;
+      overflow: hidden;
   }
 
   .card{
-      /* border: 2px solid black; */
+
       display: flex;
       flex-direction: column;
       width: 350px;
@@ -87,19 +88,22 @@
 span {
     padding-left: 10px;
 }
+
 .attribution {
     position: relative;
-    margin-top: 20px;
+    margin-top: 4rem;
     text-align: center;
 }
 .attribution a {
-    color: rgb(240, 71, 127)
+    color: rgb(214, 82, 104);
+    background-color:black;
+
 
 }
 
 @media only screen and (max-width: 640px) {
     .card {
-      margin: 25px;
+      margin-top: 6rem;
     }
   }
  
